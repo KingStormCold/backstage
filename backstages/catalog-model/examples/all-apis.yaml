@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Backstage example APIs
 spec:
   targets:
-    - /api/hello-world-api.yaml
+    - ./api/hello-world-api.yaml
